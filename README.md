@@ -6,10 +6,10 @@ BA775 Subject Of Questrom School Of Business, Boston University, Done under Prof
 
 Contributors to this project as teams members are listed here:
 
-Harshil Thakkar
-Howard Chang
-Jinisha Kande
-Renata Halim
+Harshil Thakkar,
+Howard Chang,
+Jinisha Kande,
+Renata Halim,
 Ryan Li
 
 Citations: 
