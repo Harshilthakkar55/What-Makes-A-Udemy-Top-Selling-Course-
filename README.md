@@ -7,12 +7,11 @@ BA775 Subject Of Questrom School Of Business, Boston University, Done under Prof
 Contributors to this project as teams members are listed here:
 
 Harshil Thakkar
-
 Howard Chang
-
 Jinisha Kande
 Renata Halim
 Ryan Li
+
 Citations: 
 Jil Kothari. (2020). IT & Software Courses Udemy - 22k+ courses [Data set]. Kaggle (https://doi.org/10.34740/KAGGLE/DSV/1554788)
 Jil Kothari. (2020). Business Courses - Udemy (10k courses) [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/1489532
