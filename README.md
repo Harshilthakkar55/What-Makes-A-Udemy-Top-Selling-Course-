@@ -1,10 +1,15 @@
 # What-Makes-A-Udemy-Top-Selling-Course-
 
  What-Makes-A-Udemy-Top-Selling-Course
+ 
 BA775 Subject Of Questrom School Of Business, Boston University, Done under Prof. Mohammad Soltanieh Ha, as EDA for Udemy Dated 20th Oct 2022.
+
 Contributors to this project as teams members are listed here:
+
 Harshil Thakkar
+
 Howard Chang
+
 Jinisha Kande
 Renata Halim
 Ryan Li
